@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Bluub, Louis.
+I'm Louis "Bluub",
 19 Years old
 
 🧠 Learning JS frameworks
