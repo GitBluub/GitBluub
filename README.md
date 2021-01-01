@@ -8,4 +8,4 @@ Interested to learn TypeScript
 
 ### Contact Me
 
-Discord: Bluub#1465
+[Discord](https://discordapp.com/users/140917356980338688)
