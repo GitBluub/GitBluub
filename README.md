@@ -6,6 +6,6 @@ I'm Louis "Bluub",
 🧠 Learning JS frameworks
 Interested to learn TypeScript
 
-# Contact Me
+### Contact Me
 
 Discord: Bluub#1465
