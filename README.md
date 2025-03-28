@@ -1,4 +1,4 @@
 # Bluub
-Functional fanboy && Rustacean Wannabe && ??
+Kube enjoyer && Functional fanboy && Rustacean Wannabe && ??
 
 *I use Arch btw*
